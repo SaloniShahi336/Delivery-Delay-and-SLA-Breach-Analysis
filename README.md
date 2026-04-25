@@ -95,4 +95,3 @@ jupyter notebook notebooks/delivery_delay_modeling.ipynb
 
 ---
 
-📁 [View project files on Google Drive](https://drive.google.com/drive/folders/1TZFl9ymFgFcQbTpnRAKdT-guzCoGhE4m?usp=drive_link)
