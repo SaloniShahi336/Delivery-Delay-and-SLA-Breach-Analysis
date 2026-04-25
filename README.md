@@ -59,12 +59,6 @@ XGBoost outperformed baseline models by 8+ percentage points on AUC, with featur
 
 ---
 
-## 🖼️ Screenshots / Visuals
-
-> *(Add here: ROC curve comparison, feature importance bar chart, confusion matrix, delay rate heatmap by region)*
-
----
-
 ## ▶️ How to Run
 
 ```bash
